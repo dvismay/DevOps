@@ -11,3 +11,5 @@
 5. Need to specify what can be made public by using an explicit "module.exports"
 
 6. In file in which we want to export use tag "require(path of module)"
+
+7. "GIT Commit"
