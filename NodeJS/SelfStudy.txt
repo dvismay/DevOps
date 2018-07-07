@@ -1,0 +1,13 @@
+---Om Shri SwamiSamarth RajaDhirajaynMaha--
+
+1. Node Js is a container not a langauge or a framework. It uses Google's v8 javascript engine
+
+2. Like Window object in browsers we have "global" object in node
+
+3. Every module is a file
+
+4. scope of variables defined in a file is limited to a file
+
+5. Need to specify what can be made public by using an explicit "module.exports"
+
+6. In file in which we want to export use tag "require(path of module)"
